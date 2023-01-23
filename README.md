@@ -1,16 +1,10 @@
-# my_mimed
+# Mind Meditation
 
-mimed is mind meditation app
+Mind Meditation merupakan sebuah aplikasi yang berisi timer untuk fokus dan artikel tentang kesehatan
 
-## Getting Started
+## Install
 
-This project is a starting point for a Flutter application.
+- Ketikkan Perintah "flutter pub get" terlebih dahulu di terminal, berguna untuk mendownload package-package yang dibutuhkan.
+- Setelah itu langsung klik run untuk menjalankan aplikasinya
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Semoga Lolos Aamiin
